@@ -10,7 +10,7 @@ A homepage, made in React
 
 # How it works
 On Firefox:
-- Go in Setting or paste this *about:preferences* your address bar: 
+- Go in Setting or paste this *about:preferences* your address bar
 - Select the Home category
 - In Homepage and new windows select Custom URLs
 - Paste this https://plucafs.github.io/aybo/
@@ -20,4 +20,5 @@ On Firefox:
 
 # Credits
 Made with [React](https://reactjs.org/)
+
 Color scheme by [Open color](https://yeun.github.io/open-color/)
