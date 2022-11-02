@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aybo/static/css/main.28a726fc.css",
+    "main.js": "/aybo/static/js/main.169dbf86.js",
+    "static/js/787.b334f366.chunk.js": "/aybo/static/js/787.b334f366.chunk.js",
+    "index.html": "/aybo/index.html",
+    "main.28a726fc.css.map": "/aybo/static/css/main.28a726fc.css.map",
+    "main.169dbf86.js.map": "/aybo/static/js/main.169dbf86.js.map",
+    "787.b334f366.chunk.js.map": "/aybo/static/js/787.b334f366.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28a726fc.css",
+    "static/js/main.169dbf86.js"
+  ]
+}
