@@ -1,0 +1,12 @@
+.textarea {
+    min-width: 95%;
+    height: 100%;
+    background-color: #343a40;
+    font-size: 3rem;
+    border-radius: 2rem;
+    margin: 2rem;
+    padding: 1rem;
+    border: none;
+    outline: none;
+    resize: none;
+}
